@@ -1,0 +1,42 @@
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\bin\Debug\net8.0\C#.exe
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\bin\Debug\net8.0\C#.deps.json
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\bin\Debug\net8.0\C#.runtimeconfig.json
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\bin\Debug\net8.0\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\bin\Debug\net8.0\C#.pdb
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\obj\Debug\net8.0\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\obj\Debug\net8.0\refint\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\obj\Debug\net8.0\C#.pdb
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\C#\obj\Debug\net8.0\ref\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\bin\Debug\net8.0\C#.exe
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\bin\Debug\net8.0\C#.deps.json
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\bin\Debug\net8.0\C#.runtimeconfig.json
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\bin\Debug\net8.0\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\bin\Debug\net8.0\C#.pdb
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\obj\Debug\net8.0\C#.AssemblyInfo.cs
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\obj\Debug\net8.0\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\obj\Debug\net8.0\refint\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\obj\Debug\net8.0\C#.pdb
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\obj\Debug\net8.0\C#.genruntimeconfig.cache
+C:\Users\breno\OneDrive\WorkSpace\Projetos\Estudos C e Dynamics DIO\EstudosC\obj\Debug\net8.0\ref\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\bin\Debug\net8.0\C#.exe
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\bin\Debug\net8.0\C#.deps.json
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\bin\Debug\net8.0\C#.runtimeconfig.json
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\bin\Debug\net8.0\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\bin\Debug\net8.0\C#.pdb
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\obj\Debug\net8.0\C#.AssemblyInfo.cs
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\obj\Debug\net8.0\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\obj\Debug\net8.0\refint\C#.dll
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\obj\Debug\net8.0\C#.pdb
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\obj\Debug\net8.0\C#.genruntimeconfig.cache
+C:\Users\breno\OneDrive\WorkSpace\Projetos\EstudosCandDIO\EstudosC\obj\Debug\net8.0\ref\C#.dll
